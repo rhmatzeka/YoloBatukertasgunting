@@ -47,3 +47,7 @@ pip install ultralytics opencv-python numpy pandas notebook
 ## Dataset
 
 [batu-gunting-kertas](https://universe.roboflow.com/agedetection/batu-gunting-kertas-zlhyg) from Roboflow Universe, licensed CC BY 4.0.
+
+## License
+
+Released under the [MIT License](LICENSE).
